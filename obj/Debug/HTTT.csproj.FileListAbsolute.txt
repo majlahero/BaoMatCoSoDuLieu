@@ -1,0 +1,54 @@
+D:\HHTPROc27\HHTPRO\QL BAN HANG HHTPRO\Cua Hang Di Dong.exe.config
+D:\HHTPROc27\HHTPRO\QL BAN HANG HHTPRO\Cua Hang Di Dong.exe
+D:\HHTPROc27\HHTPRO\QL BAN HANG HHTPRO\Cua Hang Di Dong.pdb
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.csproj.AssemblyReference.cache
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.Properties.Resources.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_DangNhap.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.csproj.GenerateResource.cache
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.csproj.CoreCompileInputs.cache
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.csproj.Up2Date
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\Cua Hang Di Dong.exe
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\Cua Hang Di Dong.pdb
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_DanhSachHoaDon.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.F_ThongKe.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.F_KhachHang.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.F_NhanVien.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\CuaHangDiDong.Form_KhoHang.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_Email.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_MaGiamGia.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.FORM_IN.F_DanhSachPhieuNhap.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.FORM_IN.F_InBaoHanh.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.BIEU_MAU.F_InHoaDon.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.FORM_IN.F_InPhieuNhapHang.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.F_NhapHang.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HHTPRO.DashBoard_NhanVien.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.DashBoard_QL.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_BaoHanh.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_BanHang.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.F_QLDangNhap.resources
+D:\HHTPROc27\HHTPRO\HHTPRO\obj\Debug\HTTT.FORM_IN.F_InPhieuHen.resources
+D:\DoAnBMCSDL\HHTPRO\QL BAN HANG HHTPRO\Cua Hang Di Dong.exe.config
+D:\DoAnBMCSDL\HHTPRO\QL BAN HANG HHTPRO\Cua Hang Di Dong.exe
+D:\DoAnBMCSDL\HHTPRO\QL BAN HANG HHTPRO\Cua Hang Di Dong.pdb
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.csproj.AssemblyReference.cache
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.Properties.Resources.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HHTPRO.DashBoard_NhanVien.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.DashBoard_QL.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_BanHang.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.F_NhapHang.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.FORM_IN.F_DanhSachPhieuNhap.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\CuaHangDiDong.Form_KhoHang.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_MaGiamGia.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.F_ThongKe.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_DanhSachHoaDon.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_DangNhap.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.F_QLDangNhap.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.F_KhachHang.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.F_NhanVien.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.csproj.GenerateResource.cache
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.csproj.CoreCompileInputs.cache
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.csproj.Up2Date
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\Cua Hang Di Dong.exe
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\Cua Hang Di Dong.pdb
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_TaiKhoan.resources
+D:\DoAnBMCSDL\HHTPRO\HHTPRO\obj\Debug\HTTT.QUAN_LY.F_DoiMatKhau.resources
